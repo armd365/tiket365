@@ -1,6 +1,6 @@
-HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 May 2025 22:52:02 at https://bbpvp.github.io/botspacemanjago189/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 May 2025 22:52:02 at https://bbpvp.github.io/botspacemantiket365/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 
-(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://bbpvp.github.io/botspacemanjago189/ -O1 "C:\Users\ASUS\Downloads\BotSpacemanJago189" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://bbpvp.github.io/botspacemantiket365/ -O1 "C:\Users\ASUS\Downloads\botspacemantiket365" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
 
 
@@ -14,11 +14,11 @@ note:	the hts-log.txt file, and hts-cache folder, may contain sensitive informat
 
 
 
-22:52:14	Warning: 	File not parsed, looks like binary: https://texas189x.art/robots.txt
+22:52:14	Warning: 	File not parsed, looks like binary: https://tiket365.biz/robots.txt
 
-22:52:14	Warning: 	Link https://texas189x.art/fcnd not scanned (follow robots meta tag)
+22:52:14	Warning: 	Link https://tiket365.biz/bqdy not scanned (follow robots meta tag)
 
-22:52:14	Error: 	"Not Found" (404) at link https://bbpvp.github.io/botspacemantexas189/images/flag.png (from https://bbpvp.github.io/botspacemantexas189/)
+22:52:14	Error: 	"Not Found" (404) at link https://bbpvp.github.io/botspacemantiket365/images/flag.png (from https://bbpvp.github.io/botspacemantiket365/)
 
 22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/font/fontawesome-webfont.eot?v=4.7.0 (from https://sahara88bot.site/css/font-awesome.css)
 
