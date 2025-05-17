@@ -1,0 +1,44 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 12 May 2025 22:52:02 at https://bbpvp.github.io/botspacemanjago189/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://bbpvp.github.io/botspacemanjago189/ -O1 "C:\Users\ASUS\Downloads\BotSpacemanJago189" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+22:52:14	Warning: 	File not parsed, looks like binary: https://texas189x.art/robots.txt
+
+22:52:14	Warning: 	Link https://texas189x.art/fcnd not scanned (follow robots meta tag)
+
+22:52:14	Error: 	"Not Found" (404) at link https://bbpvp.github.io/botspacemantexas189/images/flag.png (from https://bbpvp.github.io/botspacemantexas189/)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/font/fontawesome-webfont.eot?v=4.7.0 (from https://sahara88bot.site/css/font-awesome.css)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/font/fontawesome-webfont.eot? (from https://sahara88bot.site/css/font-awesome.css)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/font/fontawesome-webfont.woff2?v=4.7.0 (from https://sahara88bot.site/css/font-awesome.css)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/font/fontawesome-webfont.woff?v=4.7.0 (from https://sahara88bot.site/css/font-awesome.css)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/font/fontawesome-webfont.ttf?v=4.7.0 (from https://sahara88bot.site/css/font-awesome.css)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/font/fontawesome-webfont.svg?v=4.7.0 (from https://sahara88bot.site/css/font-awesome.css)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/img/usr.jpg (from https://sahara88bot.site/css/style.css)
+
+22:52:15	Error: 	"Not Found" (404) at link https://sahara88bot.site/css/img/arrow.png (from https://sahara88bot.site/css/style.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 25 links scanned, 12 files written (676473 bytes overall) [182815 bytes received at 14062 bytes/sec], 677522 bytes transferred using HTTP compression in 23 files, ratio 21%, 3.1 requests per connection
+
+(9 errors, 2 warnings, 0 messages)
+
